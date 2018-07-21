@@ -1,0 +1,7 @@
+E:\MyProjects\DateOrder\DateOrder\bin\Debug\DateOrder.exe.config
+E:\MyProjects\DateOrder\DateOrder\bin\Debug\DateOrder.exe
+E:\MyProjects\DateOrder\DateOrder\bin\Debug\DateOrder.pdb
+E:\MyProjects\DateOrder\DateOrder\obj\Debug\DateOrder.csprojAssemblyReference.cache
+E:\MyProjects\DateOrder\DateOrder\obj\Debug\DateOrder.csproj.CoreCompileInputs.cache
+E:\MyProjects\DateOrder\DateOrder\obj\Debug\DateOrder.exe
+E:\MyProjects\DateOrder\DateOrder\obj\Debug\DateOrder.pdb
